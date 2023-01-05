@@ -1,0 +1,14 @@
+name: db
+channels:
+    - conda-forge
+dependencies:
+  - python=3.8.10
+  - pyspark
+  - pre-commit
+  - flake8
+  - numpy
+  - pandas
+  - scipy
+  - jupyter
+  - scikit-learn
+  - mlflow
